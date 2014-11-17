@@ -1,0 +1,25 @@
+{
+    "name": "corelog-plugin-transform-time",
+    "version": "0.0.1",
+    "description": "The corelog transform plugin for add timestamp to message",
+    "main": "index.js",
+    "keywords": [
+        "corelog"
+    ],
+    "author": {
+        "name": "Andrey Gromozdov",
+        "email": "andy.grom@yandex.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andygrom/corelog-plugin-transform-time.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AndyGrom/corelog-plugin-transform-time/blob/master/LICENSE.TXT"
+        }
+    ],
+    "homepage": "https://github.com/AndyGrom/corelog-plugin-transform-time",
+    "dependencies": {}
+}

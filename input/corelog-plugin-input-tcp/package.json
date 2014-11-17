@@ -1,0 +1,24 @@
+{
+    "name": "corelog-plugin-input-tcp",
+    "version": "0.0.8",
+    "description": "The corelog TCP input plugin",
+    "main": "index.js",
+    "keywords": [
+        "corelog"
+    ],
+    "author": {
+        "name": "Andrey Gromozdov",
+        "email": "andy.grom@yandex.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andygrom/corelog-plugin-input-tcp.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AndyGrom/corelog-plugin-input-tcp/blob/master/LICENSE.TXT"
+        }
+    ],
+    "homepage": "https://github.com/AndyGrom/corelog-plugin-input-tcp"
+}

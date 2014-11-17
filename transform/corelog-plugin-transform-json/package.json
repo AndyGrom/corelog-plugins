@@ -1,0 +1,25 @@
+{
+    "name": "corelog-plugin-transform-json",
+    "version": "0.0.5",
+    "description": "The corelog JSON transform plugin",
+    "main": "index.js",
+    "keywords": [
+        "corelog"
+    ],
+    "author": {
+        "name": "Andrey Gromozdov",
+        "email": "andy.grom@yandex.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andygrom/corelog-plugin-transform-json.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AndyGrom/corelog-plugin-transform-json/blob/master/LICENSE.TXT"
+        }
+    ],
+    "homepage": "https://github.com/AndyGrom/corelog-plugin-transform-json",
+    "dependencies": {}
+}

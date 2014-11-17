@@ -1,0 +1,27 @@
+{
+    "name": "corelog-plugin-output-elasticsearch",
+    "version": "0.0.2",
+    "description": "The corelog elasticsearch output plugin",
+    "main": "index.js",
+    "keywords": [
+        "corelog"
+    ],
+    "author": {
+        "name": "Andrey Gromozdov",
+        "email": "andy.grom@yandex.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andygrom/corelog-plugin-output-elasticsearch.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AndyGrom/corelog-plugin-output-elasticsearch/blob/master/LICENSE.TXT"
+        }
+    ],
+    "homepage": "https://github.com/AndyGrom/corelog-plugin-output-elasticsearch",
+    "dependencies": {
+        "elasticsearch": "^2.4.3"
+    }
+}

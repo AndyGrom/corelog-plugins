@@ -1,0 +1,25 @@
+{
+    "name": "corelog-plugin-output-console",
+    "version": "0.0.6",
+    "description": "The corelog console output plugin",
+    "main": "index.js",
+    "keywords": [
+        "corelog"
+    ],
+    "author": {
+        "name": "Andrey Gromozdov",
+        "email": "andy.grom@yandex.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andygrom/corelog-plugin-output-console.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/AndyGrom/corelog-plugin-output-console/blob/master/LICENSE.TXT"
+        }
+    ],
+    "homepage": "https://github.com/AndyGrom/corelog-plugin-output-console",
+    "dependencies": {}
+}
